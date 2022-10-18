@@ -1,1 +1,1 @@
-Exercicio de prática pelo curso "Java COMPLETO Programação Orientada a Objetos +Projetos" da udemy por Nelio Alves.
+Exercicio de prática pelo curso "Java COMPLETO Programação Orientada a Objetos +Projetos" por Nelio Alves.
